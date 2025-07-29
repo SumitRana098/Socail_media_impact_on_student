@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Science Project
 
 This project analyzes student social media addiction data using Python and Streamlit. It includes scripts for loading, processing, visualizing, and generating insights from the data.
@@ -76,3 +77,7 @@ The purpose of this project is to provide a framework for data analysis using Py
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+=======
+# Socail_media_impact_on_student
+This project analyzes student social media addiction
+>>>>>>> d263095b9987e87de0ac930e9cf588c68a85163b
